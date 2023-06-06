@@ -111,6 +111,6 @@ gradle clean test
 ## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Уведомление в Telegram о результатах прогона тестов
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/telegram2.png" >
+<img title="Allure Overview Dashboard" src="images/screens/telegram1.png" >
 </p>
 
