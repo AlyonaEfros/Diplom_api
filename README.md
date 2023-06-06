@@ -77,7 +77,7 @@ gradle clean test
 
 ![This is an image](images/screens/Jenkins2.png)
 
-## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/alyonaefros-diplom_api/">Allure report</a>
+## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/alyonaefros-diplom_api/1/allure/#">Allure report</a>
 
 ###  Главное окно
 
