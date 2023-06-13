@@ -48,9 +48,6 @@ gradle clean test
 
 ```bash
 gradle clean test 
--Dbrowser=${BROWSER}
--DbrowserVersion=${BROWSER_VERSION}
--DbrowserSize=${BROWSER_SIZE}
 -DremoteUrl=${REMOTE_URL}
 -DbaseUrl=${BASE_URL}
 ```
@@ -58,12 +55,6 @@ gradle clean test
 ### Параметры сборки
 
 > <code>REMOTE_URL</code> – адрес удаленного сервера, на котором будут запускаться тесты.
->
-> <code>BROWSER</code> – браузер, в котором будут выполняться тесты .
->
-> <code>BROWSER_VERSION</code> – версия браузера, в которой будут выполняться тесты .
->
-> <code>BROWSER_SIZE</code> – размер окна браузера, в котором будут выполняться тесты .
 
 ###  Удаленный запуск (в Jenkins):
 1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/alyonaefros-diplom_api/">проект</a>
